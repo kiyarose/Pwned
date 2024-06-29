@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pwned", "Pwned.csproj", "{955FFF5C-8BD7-448C-AA79-C5A2D34EFC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955FFF5C-8BD7-448C-AA79-C5A2D34EFC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955FFF5C-8BD7-448C-AA79-C5A2D34EFC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955FFF5C-8BD7-448C-AA79-C5A2D34EFC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955FFF5C-8BD7-448C-AA79-C5A2D34EFC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D8EAD9-B4D6-4F9C-ABA9-80704B08644E}
+	EndGlobalSection
+EndGlobal
