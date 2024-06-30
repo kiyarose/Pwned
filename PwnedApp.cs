@@ -104,7 +104,7 @@ namespace Pwned
 
         private string GenerateWordPassword(int length, int complexity)
         {
-            string[] words = { "apple", "banana", "carrot", "dog", "elephant", "flower", "grape", "honey", "ice cream", "jungle", "kiwi", "lemon", "mango", "nut", "orange", "pear", "quince", "raspberry", "strawberry", "tomato" };
+            string[] words = { "Apple", "Banana", "Carrot", "Dog", "Elephant", "Flower", "Grape", "Honey", "Ice cream", "Jungle", "Kiwi", "Lemon", "Mango", "Nut", "Orange", "Pear", "Quince", "Raspberry", "Strawberry", "Tomato" };
             string[] symbols = { "@", "#", "$", "%", "&", "*", "+", "-", "=", "?", "!" };
 
             Random random = new Random();
